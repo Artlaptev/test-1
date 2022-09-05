@@ -3,4 +3,4 @@
 Мария - github.com/@qweqweq
 Иван - github.com/@сысвсы
 
-(Схема)[diagram.drawio.png]
+[Схема](/diagram.drawio.png)
